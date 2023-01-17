@@ -299,6 +299,10 @@ https://3.ultimate2019.com/stream/hls/24
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura",Discovery H&H Sur
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
 https://3.ultimate2019.com/stream/hls/742
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthSouth.us" tvg-name="Discovery Home & Health" tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/h_h-logo-01.png" group-title="Cultura",Discovery Home & Health
+http://azplay.ddns.me:33200/cesarerasmo7/678dfkm/2457
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthSouth.us" tvg-name="Discovery Home & Health HD" tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/h_h-logo-01.png" group-title="Cultura",Discovery Home & Health HD
+http://azplay.ddns.me:33200/cesarerasmo7/678dfkm/2687
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles",Discovery Kids
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
 https://3.ultimate2019.com/stream/hls/25
